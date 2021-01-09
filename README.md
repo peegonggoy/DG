@@ -7,7 +7,7 @@
 
 ผลลัพธ์ที่ได้จากการทำ Data Governance ไม่ใช่แค่เอกสารที่เป็นกฎระเบียบขององค์กรเท่านั้น แต่ต้องมีการปรับเปลี่ยนระบบ Infrastructure ใหม่เสียด้วย เพราะการเข้าถึงข้อมูล จะต้องโปร่งใส และมีการกำหนดสิทธิในการเข้าถึงข้อมูลอย่างชัดเจน ดังนั้นในท้ายที่สุดของการผลักดันโครงการ Data Governance จะเป็นการปรับเปลี่ยนวิธีการทำงานขององค์กรทั้งหมด เพื่อรองรับการทำงานแบบ Data-Driven Business นั่นเอง
 
-[![jZoChy.png](https://sv1.picz.in.th/images/2020/12/05/jZoChy.png)](https://www.picz.in.th/image/jZoChy)
+[![jZoChy.png](https://sv1.picz.in.th/images/2020/12/05/jZoChy.png)](https://www.picz.in.th/image/image002-3-768x376.jZoChy)
 
 ## ประเด็นในการจัดการ Data Governance มีอะไรบ้าง ?
 การจัดการ Data Governance จะครอบคุมในกรอบใหญ่ๆดังต่อไปนี้ Data Quality, Data Assurances, Security, Policy โดยอธิบายเพิ่มเติมได้ดังนี้
